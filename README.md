@@ -21,6 +21,7 @@
 
 ### ⚡ Fun fact
 - Debugging is like being a detective in a crime movie where you are also the murderer.
+  
 
 <!---
 karoshalex0873/karoshalex0873 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
