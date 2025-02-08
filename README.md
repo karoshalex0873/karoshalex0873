@@ -7,7 +7,7 @@
 
 # 🚀 Karobia Alex
 
-### Front-end Developer | IoT Enthusiast | Machine Learning Learner
+### Aspiring QA Engineer | Full-Stack Software Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-karoshalex0873-181717?style=for-the-badge&logo=github)](https://github.com/karoshalex0873)
 [![Pronouns](https://img.shields.io/badge/Pronouns-He/Him-blue?style=for-the-badge)](https://pronoun.is/he)
