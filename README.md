@@ -1,3 +1,6 @@
+<div>
+    <img src="https://github.com/karoshalex0873/karoshalex0873/blob/8a5628f65ea6425323443fa42c2f5065597d810a/Make%20your%20README%20(3).png" alt="Karobia Alex" style="width: 100%; max-width: 300px; border-radius: 10px;">
+</div>
 <div align="center" style="background-color:#030014; padding: 20px; border-radius: 10px; display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 20px;">
 
 <div>
@@ -12,9 +15,7 @@
 
 </div>
 
-<div>
-    <img src="https://github.com/karoshalex0873/karoshalex0873/blob/8a5628f65ea6425323443fa42c2f5065597d810a/Make%20your%20README%20(3).png" alt="Karobia Alex" style="width: 100%; max-width: 300px; border-radius: 10px;">
-</div>
+
 
 </div>
 
