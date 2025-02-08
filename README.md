@@ -13,7 +13,7 @@
 </div>
 
 <div>
-    <img src="your-image-url-here" alt="Karobia Alex" style="width: 100%; max-width: 300px; border-radius: 10px;">
+    <img src="https://github.com/karoshalex0873/karoshalex0873/blob/8a5628f65ea6425323443fa42c2f5065597d810a/Make%20your%20README%20(3).png" alt="Karobia Alex" style="width: 100%; max-width: 300px; border-radius: 10px;">
 </div>
 
 </div>
