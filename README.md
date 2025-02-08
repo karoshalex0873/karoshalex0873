@@ -57,7 +57,7 @@
 
 ## 🔝 Top Contributed Repo
 
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=karoshalex0873&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karoshalex0873&show_icons=true&theme=dark)](https://github.com/karoshalex0873)
 
 ---
 
