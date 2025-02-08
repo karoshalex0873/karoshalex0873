@@ -47,7 +47,7 @@
 
 ## 📈 GitHub Activity Graph
 
-![Karobia's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=karoshalex0873&theme=react-dark&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoshalex0873&bg_color=0d022c&color=ffffff&line=ededed&point=bfbbbb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
