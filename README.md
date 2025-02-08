@@ -36,6 +36,7 @@
 ---
 
 ## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=karoshalex0873&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
