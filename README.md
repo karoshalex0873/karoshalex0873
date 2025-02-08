@@ -1,33 +1,19 @@
-# Hi, I’m Karobia Alex 👋
+<div align="center">
 
-### 👀 I’m interested in
-- Front-end development
-- IoT
-- Machine learning
+# 🚀 Karobia Alex
 
-### 🌱 I’m currently learning
-- **Three.js**: Enhancing my 3D modeling and animation skills.
-- **React Native**: Exploring the world of mobile app development.
+### Front-end Developer | IoT Enthusiast | Machine Learning Learner
 
-### 💞️ I’m looking to collaborate on
-- React-based projects: I'm eager to contribute to projects that use React, whether it's web or mobile development.
-- IoT and machine learning projects: I'm passionate about integrating smart technology and intelligent systems.
-
-### 📫 How to reach me
-- **GitHub**: [karoshalex0873](https://github.com/karoshalex0873)
-
-### 😄 Pronouns
-- He/Him
-
-### ⚡ Fun fact
-- Debugging is like being a detective in a crime movie where you are also the murderer.
+[![GitHub](https://img.shields.io/badge/GitHub-karoshalex0873-181717?style=for-the-badge&logo=github)](https://github.com/karoshalex0873)
+[![Pronouns](https://img.shields.io/badge/Pronouns-He/Him-blue?style=for-the-badge)](https://pronoun.is/he)
+[![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Debugging%20is%20like%20being%20a%20detective%20in%20a%20crime%20movie%20where%20you%20are%20also%20the%20murderer.-ff69b4?style=for-the-badge)](https://github.com/karoshalex0873)
 
 ---
 
-## 🚀 Tech Stack
-Here are the technologies I'm familiar with:
+## 🛠️ Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+### Languages & Frameworks
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -36,49 +22,55 @@ Here are the technologies I'm familiar with:
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</div>
+
+### Tools & Platforms
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 
-### Commit Activity
-![Karobia's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=karoshalex0873&theme=react-dark&hide_border=true&area=true)
-
-### Overall Stats
-![](https://github-readme-stats.vercel.app/api?username=karoshalex0873&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)
-
-### Streak Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=karoshalex0873&theme=synthwave&hide_border=true)
-
-### Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karoshalex0873&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=karoshalex0873&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karoshalex0873&theme=synthwave&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karoshalex0873&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
 
 ---
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📈 GitHub Activity Graph
+
+![Karobia's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=karoshalex0873&theme=react-dark&hide_border=true&area=true)
 
 ---
 
 ## 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=karoshalex0873&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## 🎨 Modern UI/UX Banner
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; background: linear-gradient(135deg, #6a11cb, #2575fc); padding: 20px; border-radius: 10px;">
-  <img src="https://via.placeholder.com/150" alt="Profile Image" style="border-radius: 50%;">
-  <div>
-    <h1 style="color: white; margin: 0;">Karobia Alex</h1>
-    <p style="color: white; margin: 0;">Front-end Developer | IoT Enthusiast | Machine Learning Learner</p>
-  </div>
-</div>
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🌟 Let's Collaborate!
+
+I’m always open to collaborating on exciting projects. Whether it's **React-based web/mobile apps**, **IoT integrations**, or **machine learning models**, feel free to reach out!
+
+[![GitHub](https://img.shields.io/badge/GitHub-karoshalex0873-181717?style=for-the-badge&logo=github)](https://github.com/karoshalex0873)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=karoshalex0873&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
