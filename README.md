@@ -56,7 +56,6 @@
 ---
 
 ## 🔝 Top Contributed Repo
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=karoshalex0873&limit=5)
 
 ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=karoshalex0873&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
